@@ -15,5 +15,3 @@ I'm Currently working on Django and Object Detection And Recognition<br>I've wor
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
